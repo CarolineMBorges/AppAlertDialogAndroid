@@ -1,0 +1,3 @@
+Este aplicativo mostra a criação e manipulação de um AlertDialog.
+Ao clicar no botão, um AlertDialog aparece na tela para o usuário com duas opções.
+A opção que ele escolher irá emitir uma mensagem na tela após o fechamento da caixa de alerta.
